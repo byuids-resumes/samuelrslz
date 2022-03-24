@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Samuelito Bonito
+title: Brigham Young's Resume
 ---
-# Brigham Young
+# Samuelito Bonito
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 m
 <div id="webaddress">
